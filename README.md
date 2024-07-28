@@ -44,7 +44,7 @@ python main.py
 
 - Asegúrate de que tus cookies sean válidas y no hayan expirado. Si experimentas problemas de autenticación, actualiza el archivo `cookie.txt` con nuevas cookies.
 - Este script está diseñado para uso personal y no comercial. Asegúrate de cumplir con los términos de servicio de OK.ru.
-- El script soporta archivos de video con extensiones .mp4, .avi, .mov y .flv. Si necesitas soporte para otros formatos, modifica la lista de extensiones en el código.
+- El script soporta archivos de video con extensiones .mp4, .avi, .mov, .flv y .mkv. Si necesitas soporte para otros formatos, modifica la lista de extensiones en el código.
 
 ## Solución de problemas
 
